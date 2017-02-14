@@ -1,0 +1,83 @@
+/*
+potential colour scheme for website:
+Black: #1E1300
+
+Blue: #1C2499
+Light Blue: #9DFCFF
+
+Bright Green: #44FF14
+Dark Green: #396700
+
+Orange: #FF780F
+
+Red: #CC0A07
+
+White: #FFFFFF
+
+Yellow / Gold: #DFD631
+
+taken from the following website: http://www.websitebuilderexpert.com/how-to-choose-color-for-your-website/
+
+*/
+
+
+html {
+
+}
+
+body {
+
+}
+
+p {
+
+}
+
+h1 {
+
+}
+
+h4 {
+
+}
+
+img {
+
+}
+
+br {
+
+}
+
+hr {
+  color: #396700;
+}
+
+pre {
+
+}
+
+/* Hyperlinks definitions */
+a:link {
+  color: #CC0A07;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #1C2499;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #396700;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active  {
+  color: #DFD631;
+  background-color: transparent;
+  text-decoration: underline;
+}
